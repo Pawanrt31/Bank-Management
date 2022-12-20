@@ -1,4 +1,4 @@
-# Bank-Management-System
+# Bank-Management
 The project highlights the application of java and javafx for demonstration of functionality of a bank
 
 ## Flow:
